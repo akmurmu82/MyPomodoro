@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 function FocusPeriod() {
   return (
     <div>
-      
+      Focus Period
     </div>
   );
 }
